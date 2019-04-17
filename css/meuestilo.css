@@ -1,0 +1,68 @@
+body {
+    background-color: azure;
+    text-align: center;
+}
+
+center {
+    clear: both;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #99ccff;
+    text-align: center;
+}
+
+h2 {
+    color: blue
+}
+
+h1 {
+    color: darkblue
+}
+
+/*ids*/
+
+#principal {
+    font-size: 20px;
+    background-image: url("planofundo.jpg");
+}
+
+#imagem1 {
+    float: left;
+}
+
+#imagem2 {
+    float: right;
+    text-align: left;
+}
+
+/*class*/
+
+.circle {
+    border-radius: 100%;
+}
+
+.lista {
+    text-align: center;
+}
+
+.container {
+    clear: both;
+    width: 1000px;
+    margin: auto;
+}
+
+.fim {
+    clear: both;
+    text-align: center;
+}
+
+footer {
+    background-color: #99ccff;
+    text-align: center;
+}
